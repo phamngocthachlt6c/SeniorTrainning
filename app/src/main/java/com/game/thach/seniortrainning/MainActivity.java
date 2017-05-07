@@ -1,19 +1,9 @@
 package com.game.thach.seniortrainning;
 
-import android.content.BroadcastReceiver;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentFilter;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.widget.TextView;
-
-import java.util.ArrayList;
-import java.util.List;
 
 import javax.inject.Inject;
 
